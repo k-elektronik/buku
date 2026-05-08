@@ -1,5 +1,4 @@
-# Hacks, Leaks, and Revelations - Ringkasan Teknis
-
+# Hacks, Leaks, and Revelations - Technical Summary
 **Judul:** *Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data*  
 **Penulis:** Micah Lee  
 **Penerbit:** No Starch Press  
