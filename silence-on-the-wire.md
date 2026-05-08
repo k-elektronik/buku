@@ -1,4 +1,4 @@
-# Silence on the Wire - Clean Technical Markdown Summary
+# Silence on the Wire - Technical Summary
 
 **Book:** *Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks*  
 **Author:** Michal Zalewski  
